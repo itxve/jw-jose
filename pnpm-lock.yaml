@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  jose: ^4.8.1
+
+dependencies:
+  jose: registry.npmmirror.com/jose/4.8.1
+
+packages:
+
+  registry.npmmirror.com/jose/4.8.1:
+    resolution: {integrity: sha512-+/hpTbRcCw9YC0TOfN1W47pej4a9lRmltdOVdRLz5FP5UvUq3CenhXjQK7u/8NdMIIShMXYAh9VLPhc7TjhvFw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/jose/-/jose-4.8.1.tgz}
+    name: jose
+    version: 4.8.1
+    dev: false
